@@ -1,4 +1,4 @@
-# Deep Learning & Computer Vision Repository
+# Deep Learning Lab Practicals
 
 A collection of implementation blueprints spanning classical neural networks, modern computer vision pipelines, sequence modeling, and generative AI across **TensorFlow, Keras, PyTorch, and Darknet**.
 
